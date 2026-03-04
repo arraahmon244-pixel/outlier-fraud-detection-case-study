@@ -84,5 +84,5 @@ This approach reduces false positives while maintaining strong security.
 ---
 
 ## Author
-**Ar Rahmon Idris**  
+**AbdurrRahmon Idris**  
 Cybersecurity Student (Beginner)
